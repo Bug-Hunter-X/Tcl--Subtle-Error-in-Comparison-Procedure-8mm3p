@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Tcl procedure that compares two values. The bug arises from the implicit type coercion in Tcl's equality operator (`==`).  The solution shows how to correct the comparison to handle different data types more robustly.
